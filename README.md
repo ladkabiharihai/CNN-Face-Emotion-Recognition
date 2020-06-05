@@ -17,6 +17,8 @@
 #Create a Convolutional Neural Network (CNN) Model
   1. Designed a convolutional neural network with 4 convolution layers and 2 fully connected layers to predict 7 types of facial            
      expressions.
+     ![alt text](https://github.com/jokker99/CNN-Emotion-Regnition/blob/master/model.png)
+
   2. Used Adam as the optimizer, categorical crossentropy as the loss function, and accuracy as the evaluation metric.
 
 #Batch_Size used is 4
