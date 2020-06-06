@@ -17,19 +17,23 @@
 #Create a Convolutional Neural Network (CNN) Model
   1. Designed a convolutional neural network with 4 convolution layers and 2 fully connected layers to predict 7 types of facial            
      expressions.
+     
      ![alt text](https://github.com/jokker99/CNN-Emotion-Regnition/blob/master/model.png)
 
   2. Used Adam as the optimizer, categorical crossentropy as the loss function, and accuracy as the evaluation metric.
 
 #Batch_Size used is 4
 #epoch = 50
-
+    
+    download the data set  https://www.kaggle.com/debanga/facial-expression-recognition-challenge
     Run the main.py script to create the Flask app and serve the model's predictions to a web interface.
     Apply the model to saved videos on disk.
+
+
 #Results
 
   ![alt text](https://github.com/jokker99/CNN-Emotion-Regnition/blob/master/results/IMG_20200606_035953.jpg)
-   ![alt text](https://github.com/jokker99/CNN-Emotion-Regnition/blob/master/results/IMG_20200606_035925.jpg)
-   ![alt text](https://github.com/jokker99/CNN-Emotion-Regnition/blob/master/results/IMG_20200606_040012.jpg)
-   ![alt text](https://github.com/jokker99/CNN-Emotion-Regnition/blob/master/results/IMG_20200606_035831.jpg)
+  ![alt text](https://github.com/jokker99/CNN-Emotion-Regnition/blob/master/results/IMG_20200606_035925.jpg)
+  ![alt text](https://github.com/jokker99/CNN-Emotion-Regnition/blob/master/results/IMG_20200606_040012.jpg)
+  ![alt text](https://github.com/jokker99/CNN-Emotion-Regnition/blob/master/results/IMG_20200606_035831.jpg)
  
