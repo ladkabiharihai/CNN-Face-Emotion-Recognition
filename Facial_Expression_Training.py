@@ -112,6 +112,7 @@ reduce_lr = ReduceLROnPlateau(monitor='val_loss', factor=0.1,
 checkpoint = ModelCheckpoint("model_weights.h5", monitor='val_accuracy',
                              save_weights_only=True, mode='max', verbose=1)
 
+callbacks = [checkpoint, reduce_lr]
 
 history = model.fit(
     x=train_generator,
