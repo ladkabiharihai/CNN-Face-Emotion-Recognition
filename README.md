@@ -28,8 +28,8 @@
     Apply the model to saved videos on disk.
 #Results
 
-    ![alt text](https://github.com/jokker99/CNN-Emotion-Regnition/blob/master/results/IMG_20200606_035953.jpg)
-    ![alt text](https://github.com/jokker99/CNN-Emotion-Regnition/blob/master/results/IMG_20200606_035925.jpg)
-    ![alt text](https://github.com/jokker99/CNN-Emotion-Regnition/blob/master/results/IMG_20200606_040012.jpg)
-    ![alt text](https://github.com/jokker99/CNN-Emotion-Regnition/blob/master/results/IMG_20200606_035831.jpg)
+  ![alt text](https://github.com/jokker99/CNN-Emotion-Regnition/blob/master/results/IMG_20200606_035953.jpg)
+   ![alt text](https://github.com/jokker99/CNN-Emotion-Regnition/blob/master/results/IMG_20200606_035925.jpg)
+   ![alt text](https://github.com/jokker99/CNN-Emotion-Regnition/blob/master/results/IMG_20200606_040012.jpg)
+   ![alt text](https://github.com/jokker99/CNN-Emotion-Regnition/blob/master/results/IMG_20200606_035831.jpg)
  
